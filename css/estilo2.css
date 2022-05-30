@@ -1,0 +1,31 @@
+*{
+    margin: 0;padding: 0;border: 0
+}
+h1{
+    text-align: center;
+    font-size: 575%;
+    color: #4A4444;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 275%;
+    color: #E5E5E5;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    margin: 12% 0;
+}
+/*  começo paralise*/
+.parallax{
+    background: url(../pictures/esportes-2.png) no-repeat;
+}
+.parallax-one{
+    padding-top: 18%;
+    padding-bottom: 5%;
+    
+}
+
+/*  fim paralise*/
